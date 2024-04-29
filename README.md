@@ -1,5 +1,5 @@
 <h2 align="center" font-weight="bold">
-🔭 I’m working on natural language processing and object detection, predictive analysis  <br>🤝 I’m looking for help with AI Projects<br>🌱 I’m currently learning Advanced chatbot development on langchain & dialogflow <br>💬 Ask me about ML, Machine Vision, Deep Learning, Pattern Recognition, ...<br>⚡ Fun fact is IAMAI
+😊Client's Satisfactory <-> Proof of Good Delievery💯
 </h2>
 
 <h1>💫 About Me:</h1>
