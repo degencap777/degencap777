@@ -3,6 +3,7 @@
 </h2>
 
 <h1>💫 About Me:</h1>
+<img align="right" width="350" src="https://github.com/libraiger/libraiger/blob/main/img/as2.gif" />
 <p>
 Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 
@@ -12,7 +13,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 Together, let's shape a AI landscape that radiates with wonder and awe!
   
   
-<img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+<img align="right" width="350" src="https://github.com/libraiger/libraiger/blob/main/img/deweloper.gif" />
 <p>
 
 <h1 font-weight="bold">
@@ -69,67 +70,3 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
 <h2 align="center"></h2>
 <br/>
-
-<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
-
-<div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AISoltani&layout=compact&langs_count=7&theme=radical">
-  <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=AISoltani&theme=radical&row=1&column=6" alt="trophy">
-  </a>
-  <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">
-    <img height="150em" alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=radical&preferLogin=false" />
-  </a>
-
-  <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AISoltani&theme=radical" alt="GitHub Streak">
-  </a>
-</div>
-<br/>
-<details>
-   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
-   </br>
-    <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AISoltani&theme=radical" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AISoltani&theme=radical" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AISoltani&theme=radical" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AISoltani&theme=radical" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AISoltani&theme=radical&utcOffset=8" alt="Productive Time">
-    </div>
-   </br>
-</details>
-
-
-
-<h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection</h3>  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/th.gif">
-&nbsp; &nbsp; &nbsp; &nbsp;
-</p>
-
-
-<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System </h3>  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/ScreenShot_20231103191154.png">
-&nbsp; &nbsp; &nbsp; &nbsp;
-</p>
-
-
-<h3>🧰️ Lastest Project: AI Fitness Fat-Loss Muscle Detection & Segmentation </h3>  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%">
-</p>
-
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"
-    src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/final.png">
- </div>
