@@ -3,7 +3,7 @@
 </h2>
 
 <h1>💫 About Me:</h1>
-<img align="right" width="350" src="https://github.com/libraiger/libraiger/blob/main/img/as2.gif" />
+<img align="right" width="350" src="https://github.com/libraiger/libraiger/blob/main/blob/main/img/as2.gif" />
 <p>
 Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 
@@ -13,7 +13,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 Together, let's shape a AI landscape that radiates with wonder and awe!
   
   
-<img align="right" width="350" src="https://github.com/libraiger/libraiger/blob/main/img/deweloper.gif" />
+<img align="right" width="350" src="https://github.com/libraiger/libraiger/blob/main/blob/main/img/deweloper.gif" />
 <p>
 
 <h1 font-weight="bold">
