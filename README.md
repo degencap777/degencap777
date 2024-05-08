@@ -1,11 +1,11 @@
 <h1 align="center" font-weight="bold">
 💰Web3 & AI/MLOps Engineer🧠<br/>
-</h1>
+
 <h2 align="center" font-weight="bold">
 😊Client's Satisfactory <-> Proof of Good Delievery💯
 </h2>
-
-<h1 font-weight="bold">
+</h1>
+  
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 
 <img src="https://skillicons.dev/icons?i=ai,aiscript,tensorflow,pytorch,python,fastapi,flask,react,electron,flutter,go,java,c,cpp,cs,redis,matlab,cloudflare,docker,processing,graphql" width="100%">
