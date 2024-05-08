@@ -4,11 +4,10 @@
 <h2 align="center" font-weight="bold">
 😊Client's Satisfactory <-> Proof of Good Delievery💯
 </h2>
-  <p align="left" font-weight="bold">
-    Blockchain Developer
-    AI Engineer
-    Full Stack Developer
-  </p>
+    > Blockchain Developer
+    > AI Engineer
+    > Full Stack Developer
+
 </h1>
   
 <h2 font-weight="bold">🏅 Top Skills 🎩</h2>
