@@ -5,32 +5,7 @@
 😊Client's Satisfactory <-> Proof of Good Delievery💯
 </h2>
 
-<h1>💫 About Me:</h1>
-<img align="right" width="350" src="https://github.com/libraiger/libraiger/blob/main/blob/main/img/as2.gif" />
-<p>
-Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
-
-Well I possess the powerfull knowledge of AI, AI is beautiful and the art of using it is more beautiful.
-My working fields are ML, Deep Learning, Vision and PR. I recently working more on chatbot Applications.
-  
-Together, let's shape a AI landscape that radiates with wonder and awe!
-  
-  
-<img align="right" width="350" src="https://github.com/libraiger/libraiger/blob/main/blob/main/img/deweloper.gif" />
-<p>
-
 <h1 font-weight="bold">
-  🌟 My Skills  
-
-</h1>
-Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
-</p>
-
-
-
-  <br/>
-  <br/>
-  <br/>
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 
 <img src="https://skillicons.dev/icons?i=ai,aiscript,tensorflow,pytorch,python,fastapi,flask,react,electron,flutter,go,java,c,cpp,cs,redis,matlab,cloudflare,docker,processing,graphql" width="100%">
