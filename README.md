@@ -6,9 +6,9 @@
 </h2>
 </h1>
   
-<h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
+<h2 font-weight="bold">🏅 Top Skills 🎩</h2>
 
-<img src="https://skillicons.dev/icons?i=ai,aiscript,tensorflow,pytorch,python,fastapi,flask,react,electron,flutter,go,java,c,cpp,cs,redis,matlab,cloudflare,docker,processing,graphql" width="100%">
+<img src="https://skillicons.dev/icons?i=ai,solidity,tensorflow,pytorch,python,fastapi,flask,react,nextjs,electron,go,java,cs,rust,redis,docker,graphql" width="100%">
 
 # 💻 Tech Stack:
 
