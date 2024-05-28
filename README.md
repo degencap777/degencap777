@@ -1,5 +1,5 @@
 <h1 align="center" font-weight="bold">
-💰Web3 & AI/MLOps Engineer🧠<br/>
+💰Web3 & ML Engineer🧠<br/>
 
 <h2 align="center" font-weight="bold">
 😊Client's Satisfactory <-> Proof of Good Delievery💯
