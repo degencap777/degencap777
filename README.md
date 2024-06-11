@@ -1,14 +1,10 @@
 <h1 align="center" font-weight="bold">
-💰Web3 & ML Engineer🧠<br/>
+💰Blockchain & ML Engineer🧠<br/>
 
 <h2 align="center" font-weight="bold">
-😊Client's Satisfactory <-> Proof of Good Delievery💯
+Why miracle, that's because it's mostly not happen.
 </h2>
 </h1>
-  
-<h2 font-weight="bold">🏅 Top Skills 🎩</h2>
-
-<img src="https://skillicons.dev/icons?i=ai,solidity,tensorflow,pytorch,python,fastapi,flask,react,nextjs,electron,go,java,cs,rust,redis,docker,graphql" width="100%">
 
 <a href="https://app.daily.dev/libraiger"><img src="https://api.daily.dev/devcards/v2/d6lWxrgg73SDHQBslU5eO.png?type=wide&r=bcx" width="652" alt="Libra Tiger's Dev Card"/></a>
 
