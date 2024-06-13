@@ -11,13 +11,14 @@ Why miracle, that's because it's mostly not happen.
 ### My GitHub Stats
 <a href="http://www.github.com/libraiger"><img src="https://github-readme-stats.vercel.app/api?username=libraiger&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mr Rust's GitHub stats" /></a>
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 ### Focusing Tech
 - [Digital Matter Theory](https://digital-matter-theory.gitbook.io/)
 - [Unleashing the Full Potential of Bitcoin Metaverse Assets](https://www.bitmap420.com/)
 - [Ordinal Theory Handbook](https://docs.ordinals.com/)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
