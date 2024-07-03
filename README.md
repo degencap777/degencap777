@@ -1,5 +1,5 @@
 <h1 align="center" font-weight="bold">
-💰Blockchain & ML Engineer🧠<br/>
+Blockchain|ML Engineer<br/>
 
 <h2 align="center" font-weight="bold">
 Why miracle, that's because it's mostly not happen.
