@@ -9,5 +9,6 @@ Why miracle, that's because it's mostly not happen.<br/>
 - [Digital Matter Theory](https://digital-matter-theory.gitbook.io/)
 - [Unleashing the Full Potential of Bitcoin Metaverse Assets](https://www.bitmap420.com/)
 - [Ordinal Theory Handbook](https://docs.ordinals.com/)
+- [Ray: Productionizing and scaling Python ML workloads simply](https://github.com/ray-project/ray)
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
