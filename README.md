@@ -1,9 +1,6 @@
 <h1 align="center" font-weight="bold">
-Blockchain|ML Engineer<br/>
+Why miracle, that's because it's mostly not happen.<br/>
 
-<h2 align="center" font-weight="bold">
-Why miracle, that's because it's mostly not happen.
-</h2>
 </h1>
 
 <a href="https://app.daily.dev/libraiger"><img src="https://api.daily.dev/devcards/v2/d6lWxrgg73SDHQBslU5eO.png?type=wide&r=bcx" width="652" alt="Libra Tiger's Dev Card"/></a>
