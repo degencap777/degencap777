@@ -3,12 +3,5 @@ Why miracle, that's because it's mostly not happen.<br/>
 
 </h1>
 
-<a href="https://app.daily.dev/libraiger"><img src="https://api.daily.dev/devcards/v2/d6lWxrgg73SDHQBslU5eO.png?type=wide&r=bcx" width="652" alt="Libra Tiger's Dev Card"/></a>
-
-### Focusing Tech
-- [Digital Matter Theory](https://digital-matter-theory.gitbook.io/)
-- [Unleashing the Full Potential of Bitcoin Metaverse Assets](https://www.bitmap420.com/)
-- [Ordinal Theory Handbook](https://docs.ordinals.com/)
-- [Ray: Productionizing and scaling Python ML workloads simply](https://github.com/ray-project/ray)
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
+* Contact to me: jay@chiral.ai
+* About me: ---MY PORTFOLIO---[https://westchain.org]
