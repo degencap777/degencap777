@@ -22,4 +22,4 @@ This service offers whatever related to the multisig function and this enhances 
 ordinal map game - assign specific traits (like a food chain) to every ordinals so users can win/lose in game.
  
 Additionally, crash, raffle(https://github.com/libraiger/ordinalRaffleBE), etc
-You can also see some prev works here: https://westchain.org/
+Thanks!
