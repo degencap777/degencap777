@@ -12,6 +12,7 @@ Services<br/>
 </h1>
 
 [AI development]: 
+   * Crypto AI RAG Chatbot development (https://velo.xyz/ai)
    * NLP projects like AI Chatbot (https://sharly.ai, https://chatdoc.com)
    * Predictive Model (time-serialized forecasting like stock price prediction, etc)
    * Computer vision using Dalle, Stable Diffusion, etc
