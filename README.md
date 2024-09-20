@@ -18,9 +18,7 @@ Services<br/>
    * Computer vision using Dalle, Stable Diffusion, etc
 
 [Blockchain development]:
-  (bitcoin, solana, ethererum)
-   * Dex(pump.fun, raydium smart contract)
-   * bot development(sniping, mev, volume bot, etc)
-   * bitcoin ordinal, rune, bitmap service (https://bitmap-community-dev.vercel.app/inscribe)
+  (bitcoin)
+   * bitcoin pump.fun, ordinal, rune, bitmap service (https://bitmap-community-dev.vercel.app/inscribe)
    * p2e game like raffle, auction, map game, etc(https://theruneguardians.com/) 
 Thanks!
