@@ -3,8 +3,8 @@ Why miracle, that's because it's mostly not happen.<br/>
 
 </h1>
 
-* Contact to me: jay@chiral.ai
-* About me: ---MY PORTFOLIO---[https://westchain.org]
+* Contact to me: [Gmail](mailto:jay@chiral.ai) [Telegram](https://t.me/@degencap777) 
+* About me: [portfolio](https://westchain.org)
 
 <h1 align="center" font-weight="bold">
 Services<br/>
@@ -20,5 +20,7 @@ Services<br/>
 [Blockchain development]:
   (bitcoin)
    * bitcoin pump.fun, ordinal, rune, bitmap service (https://bitmap-community-dev.vercel.app/inscribe)
-   * p2e game like raffle, auction, map game, etc(https://theruneguardians.com/) 
+   * p2e game like raffle, auction, map game, etc(https://theruneguardians.com/)
+  (solana)
+   * trading bot development: pumpfun sniper & bundler, raydium sniper & bundler, raydium volume booster, shit-token launcher, token-freezer, holder bot, maker bot, arbitrage bot
 Thanks!
