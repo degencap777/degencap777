@@ -20,8 +20,8 @@ Services<br/>
 ### [Blockchain development]:
   #### [(bitcoin)]
    * bitcoin pump.fun, ordinal, rune, bitmap service (https://bitmap-community-dev.vercel.app/inscribe)
-   * p2e game like raffle, auction, map game, etc(https://theruneguardians.com/)
+   * p2e game like raffle, auction, map game(https://theruneguardians.com/), etc
   #### [(solana)]
-   * trading bot development: pumpfun sniper & bundler, raydium sniper & bundler, raydium volume booster, shit-token launcher, token-freezer, holder bot, maker bot, arbitrage bot
+   * trading bot development: `Pumpfun sniper & bundler`, `Raydium sniper & bundler`, `Raydium volume booster`, `Shit-token launcher`, `Token-freezer`, `Holder bot`, `Maker bot`, `Arbitrage bot`
 
 Thanks!
