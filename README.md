@@ -18,9 +18,9 @@ Services<br/>
    * Computer vision using Dalle, Stable Diffusion, etc
 
 [Blockchain development]:
-  [(bitcoin)]
+  - [(bitcoin)]
    * bitcoin pump.fun, ordinal, rune, bitmap service (https://bitmap-community-dev.vercel.app/inscribe)
    * p2e game like raffle, auction, map game, etc(https://theruneguardians.com/)
-  [(solana)]
+  - [(solana)]
    * trading bot development: pumpfun sniper & bundler, raydium sniper & bundler, raydium volume booster, shit-token launcher, token-freezer, holder bot, maker bot, arbitrage bot
 Thanks!
