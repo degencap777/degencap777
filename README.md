@@ -11,17 +11,22 @@ Services<br/>
 
 </h1>
 
-### [AI development]: 
-   * Crypto AI RAG Chatbot development ([https://x.com/degencap777](https://x.com/degencap777/status/1834470426275377183))
-   * NLP projects like AI Chatbot (https://sharly.ai, https://chatdoc.com)
-   * Predictive Model (time-serialized forecasting like stock price prediction, etc)
-   * Computer vision using Dalle, Stable Diffusion, etc
-
-### [Blockchain development]:
-  #### [(bitcoin)]
-   * bitcoin pump.fun, ordinal, rune, bitmap service (https://bitmap-community-dev.vercel.app/inscribe)
-   * p2e game like raffle, auction, map game(https://theruneguardians.com/), etc
-  #### [(solana)]
-   * trading bot development: `Pumpfun sniper & bundler`, `Raydium sniper & bundler`, `Raydium volume booster`, `Shit-token launcher`, `Token-freezer`, `Holder bot`, `Maker bot`, `Arbitrage bot`
+### [Bitcoin, Solana, AI]**
+#### Bitcoin
+  * Ordinal Marketplace, Ordinal Raffle, Ordinal Inscription service, Ordinal marketplace fractal, etc
+  * Rune Airdrop, Rune Staking, Multi-Sig, Rune Dex(pumpfun), Rune Launchpad Fractal, etc
+#### Solana
+  * Trading Bot(Raydium: Volume bot, Sniper, Bundler || Pumpfun: Bundler, Sniper)
+  * Pumpfun Smart Contract Forking, etc
+#### AI
+  * Crypto-AI chatbot: be able to excute token buy/sell after wallet connect(Video, Screenshot)
+  * Token Price Predicting model train/tune (Marketting Information Investigating, Big Data, etc) 
+  * Computer Vision - Image Processing for Ordinal, NFT, Meme
+#### Full-stack
+  * Backend: Rust, Python, Next, Node.
+  * Frontend: React, Vue, Next.
+  * API: Rest API, GraphQL.
+  * DB: MongoDB, MySql, Postgres, etc.
+  * Dev/Ops: AWS, Digital Ocean, Docker, GCP, etc.
 
 Thanks!
