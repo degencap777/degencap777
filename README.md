@@ -1,5 +1,5 @@
 <h1 align="center" font-weight="bold">
-Why miracle, that's because it's mostly not happen.<br/>
+Make AI 'n' Blockchain Great Again<br/>
 
 </h1>
 
