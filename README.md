@@ -3,8 +3,7 @@ Make AI 'n' Blockchain Great Again<br/>
 
 </h1>
 
-### * Contact to me: [Gmail](mailto:jay@chiral.ai) | [Telegram](https://t.me/degencap777)
-### * About me: [Portfolio](https://westchain.org)
+[Gmail](mailto:jay@chiral.ai) | [Telegram](https://t.me/degencap777) | [Portfolio](https://westchain.org)
 
 <h1 align="center" font-weight="bold">
 </h1>
