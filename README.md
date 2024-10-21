@@ -11,7 +11,7 @@ Services<br/>
 
 </h1>
 
-### [Bitcoin, Solana, AI]**
+### [Bitcoin, Solana, AI]
 #### Bitcoin
   * Ordinal Marketplace, Ordinal Raffle, Ordinal Inscription service, Ordinal marketplace fractal, etc
   * Rune Airdrop, Rune Staking, Multi-Sig, Rune Dex(pumpfun), Rune Launchpad Fractal, etc
