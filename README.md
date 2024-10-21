@@ -3,7 +3,7 @@ Make AI 'n' Blockchain Great Again<br/>
 
 </h1>
 
-[Gmail](mailto:jay@chiral.ai) | [Telegram](https://t.me/degencap777) | [Portfolio](https://westchain.org)
+### [Gmail](mailto:jay@chiral.ai) | [Telegram](https://t.me/degencap777) | [Portfolio](https://westchain.org)
 
 <h1 align="center" font-weight="bold">
 </h1>
@@ -25,5 +25,3 @@ Make AI 'n' Blockchain Great Again<br/>
   * API: Rest API, GraphQL.
   * DB: MongoDB, MySql, Postgres, etc.
   * Dev/Ops: AWS, Digital Ocean, Docker, GCP, etc.
-
-Thanks!
