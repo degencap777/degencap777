@@ -5,9 +5,6 @@ Make AI 'n' Blockchain Great Again<br/>
 
 ### [Gmail](mailto:jay@chiral.ai) | [Telegram](https://t.me/degencap777) | [Portfolio](https://westchain.org)
 
-<h1 align="center" font-weight="bold">
-</h1>
-
 ### [Bitcoin, Solana, AI]
 #### Bitcoin
   * Ordinal Marketplace, Ordinal Raffle, Ordinal Inscription service, Ordinal marketplace fractal, etc
