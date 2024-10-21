@@ -7,8 +7,6 @@ Make AI 'n' Blockchain Great Again<br/>
 ### * About me: [Portfolio](https://westchain.org)
 
 <h1 align="center" font-weight="bold">
-Services<br/>
-
 </h1>
 
 ### [Bitcoin, Solana, AI]
