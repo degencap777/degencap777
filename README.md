@@ -22,4 +22,4 @@ Make AI 'n' Blockchain Great Again<br/>
   * API: Rest API, GraphQL.
   * DB: MongoDB, MySql, Postgres, etc.
   * Dev/Ops: AWS, Digital Ocean, Docker, GCP, etc.
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degencap777&layout=compact&theme=merko&count_private=true&hide=jupyter,jupyter_notebook,javascript,html&langs_count=8">
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degencap777&layout=compact&theme=merko&count_private=true&hide=jupyter,jupyter_notebook,javascript,css,html&langs_count=8">
