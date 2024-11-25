@@ -1,4 +1,4 @@
 <h1 align="center" font-weight="bold">
-AI | Bitcoin | Solana <br/>
+AI | Bitcoin | Solana 
 
 </h1>
